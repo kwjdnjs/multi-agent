@@ -1,1 +1,16 @@
+# 환경변수
 .env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Next.js
+front/node_modules/
+front/.next/
+
+# IDE / OS
+.idea/
+.DS_Store
+.claude/
